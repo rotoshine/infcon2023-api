@@ -31,7 +31,7 @@ const database = [
       "윤덕원은 대한민국의 모던 록 밴드 브로콜리 너마저의 보컬이자 베이시스트이다. 인디 레이블 붕가붕가레코드의 전 대표이자 창립 멤버이며, 2008년 현재의 본인과 브로콜리 너마저의 소속 레이블인 스튜디오 브로콜리를 설립하였다.",
     slug: "yoondw",
     profileImageUrl: "/images/yoondw.jpg",
-    backgroundImageUrl: "/images/yoondw_bg",
+    backgroundImageUrl: "/images/yoondw_bg.jpg",
   },
   {
     name: "더스키블루",
